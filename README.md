@@ -4,7 +4,7 @@
 The Advanced Decision Support Dashboard was designed and developed to assist with strategic decision-making during the Hockey India League Auction. By integrating advanced data analysis techniques, including Principal Component Analysis (PCA) and Factor Analysis, the dashboard helps identify high-value player combinations, optimizing player selection during the auction process.
 
 # DEMO VIDEO FOR ADVANCED PLAYER DASHBOARD FOR AUCTION
-https://github.com/user-attachments/assets/e07d2072-8cd7-441f-ae9f-974a8c4f8ddd
+https://github.com/user-attachments/assets/392d9b43-4f39-435b-9210-3428886d53ba
 
 ## Technology used
   * Flask: Web framework used for building the interactive dashboard.
